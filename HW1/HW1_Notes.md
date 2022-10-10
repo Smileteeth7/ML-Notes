@@ -4,3 +4,4 @@
 3. 替换优化器，如Adam
 4. 调整learning rate，如余弦退火Cosine annealing
 5. 尝试使用dropout
+6. 正则化regularization
