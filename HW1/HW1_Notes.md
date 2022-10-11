@@ -5,3 +5,4 @@
 4. 调整learning rate，如余弦退火Cosine annealing
 5. 尝试使用dropout
 6. 正则化regularization
+7. 适当增加网络宽度
